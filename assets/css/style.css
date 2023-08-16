@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bg-gif{
+    /* position: fixed; */
+    background: #040404 url("../imgs/ezgif-5-3e4190b650.gif") top right no-repeat;
+    background-size: cover;
+}
+.text-w{
+    font-weight: 1000;
+}
